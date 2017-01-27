@@ -2,5 +2,4 @@
 the following link requires you to be a member ohm nürnbergs informatik students.
 <br>
 this project is based on:<br>
-https://fachschaft.in.th-nuernberg.de/downloads/download/22-mathe-i/4548-mathe-1-zusammenfassung-6seiten-ws1516-stieber<br>
-a work by Tim Weisenberger
+https://fachschaft.in.th-nuernberg.de/downloads/download/22-mathe-i/4548-mathe-1-zusammenfassung-6seiten-ws1516-stieber by Tim Weisenberger
